@@ -1,0 +1,12 @@
+LanguageIntent practice {Language}
+LanguageIntent I want to learn {Language}
+
+WordIntent the word is {Source}
+
+Practice {Source}
+
+AMAZON.HelpIntent help 
+AMAZON.HelpIntent Help 
+AMAZON.StopIntent Stop 
+AMAZON.StopIntent cancel 
+AMAZON.StopIntent Cancel 

@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent" : "LanguageIntent",
+      "slots": [
+        {
+          "name" : "Language",
+          "type" : "LANGUAGES_LIST"
+        }
+      ]
+    },
+    {
+      "intent": "WordIntent",
+      "slots": [
+        {
+          "name": "Source",
+          "type": "SOURCE"
+        }
+      ]
+    },
+    {
+      "intent": "Practice",
+      "slots": [
+        {
+          "name": "Source",
+          "type": "SOURCE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent" 
+    },
+    {
+      "intent":"AMAZON.StopIntent" 
+    }
+  ] 
+}
