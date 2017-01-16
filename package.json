@@ -1,0 +1,59 @@
+{
+  "name": "rapidapi-connect",
+  "version": "0.0.2",
+  "description": "Connect to blocks on the rapidapi.com marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RapidSoftwareSolutions/RapidAPIConnect_NodeJS.git"
+  },
+  "keywords": [
+    "RapidAPI",
+    "Connect",
+    "Node",
+    "API"
+  ],
+  "author": {
+    "name": "R Software Inc."
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RapidSoftwareSolutions/RapidAPIConnect_NodeJS/issues"
+  },
+  "homepage": "https://github.com/RapidSoftwareSolutions/RapidAPIConnect_NodeJS",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "request": "^2.72.0"
+  },
+  "gitHead": "bd270bc3fae63c77041d964dd27da6dc094f0b70",
+  "_id": "rapidapi-connect@0.0.2",
+  "_shasum": "776be95ab4fab9a3436be9c297686bde6a7e3d23",
+  "_from": "rapidapi-connect@latest",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.3.1",
+  "_npmUser": {
+    "name": "iddo",
+    "email": "iddo@rapidapi.com"
+  },
+  "dist": {
+    "shasum": "776be95ab4fab9a3436be9c297686bde6a7e3d23",
+    "tarball": "https://registry.npmjs.org/rapidapi-connect/-/rapidapi-connect-0.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "iddo",
+      "email": "iddo@rapidapi.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/rapidapi-connect-0.0.2.tgz_1475211215035_0.47389750671572983"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/rapidapi-connect/-/rapidapi-connect-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
